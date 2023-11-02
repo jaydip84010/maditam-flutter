@@ -1,0 +1,66 @@
+{
+  "splash_screen": {
+    "welcome": "مرحباً",
+    "text": "التأمل هو الجهاز المحمول النهائي. يمكنك استخدامه في أي مكان وفي أي وقت بشكل غير ملحوظ.",
+    "btn_text": "البدء"
+  },
+  "login_screen": {
+    "sign_in": "تسجيل الدخول",
+    "sign_in_text": "الغناء الآن للوصول إلى التأمل وحفظ الموسيقى",
+    "login": "تسجيل الدخول",
+    "forgot_pass": "هل نسيت كلمة السر؟",
+    "dont_have_acc": "ليس لديك حساب؟"
+  },
+  "signup_screen": {
+    "sign_up": "اشتراك",
+    "sign_up_text": "اشترك الآن مجانًا وابدأ في التأمل واستكشف المسعف",
+    "full_name": "الاسم الكامل",
+    "hint_name": "أدخل اسمك الكامل",
+    "email": "بريد إلكتروني",
+    "hint_email": "أدخل بريدك الإلكتروني",
+    "password": "كلمة المرور",
+    "hint_pass": "ادخل رقمك السري",
+    "sign_up_btn": "اشتراك",
+    "already_have_acc": "هل لديك حساب؟"
+  },
+  "themeChange_screen": {
+    "title": "مشاهد",
+    "scn_sound": "مشاهد الصوت",
+    "moonlit": "مقمر",
+    "hills": "تلال",
+    "night": "ليلة",
+    "rainy": "ماطر",
+    "cloudy": "غائم",
+    "snowy": "مثلج",
+    "save": "يحفظ"
+  },
+  "menu_screen": {
+    "good": "جيد",
+    "morning": "صباح",
+    "afternoon": "بعد الظهر",
+    "evening": "مساء",
+    "night": "ليلة",
+    "error_text": "فشل تحميل الصورة",
+    "no_data": "لايوجد بيانات",
+    "view_all": "مشاهدة الكل",
+    "reset": "إعادة ضبط",
+    "see_all": "اظهار الكل",
+    "recommand": "معظم المجموعات الموصى بها",
+    "mindful": "المشي اليقظ",
+    "relieve": "تخفيف مشاعر القلق والتوتر",
+    "daily_meditam": "ديلي ميديتام",
+    "tamara_lev": "تمارا ليفيت"
+  },
+  "profile_screen": {
+    "send_mail": "ارسل بريد",
+    "change_lang": "تغيير اللغة{} ",
+    "select_language": "اختار اللغة",
+    "send_code": "تم ارسال الكود",
+    "invite_friend": "أدع صديقا",
+    "privacy_policy": "سياسة الخصوصية",
+    "contact_us": "اتصل بنا",
+    "change_pass": "تغيير كلمة المرور",
+    "delete_acc": "حذف الحساب",
+    "log_out": "تسجيل خروج"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "onboarding_screen": {
+    "welcome": "Welcome",
+    "text": "Meditation is the ultimate mobile device; you can use it anywhere, anytime, unobtrusively.",
+    "btn_text": "Get Started"
+  },
+  "login_screen": {
+    "sign_in": "Sign In",
+    "sign_in_text": "Sing in now to access your meditation and save music",
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "forgot_pass": "Forgot Password?",
+    "dont_have_acc": "Don't have an account?"
+  },
+  "signup_screen": {
+    "sign_up": "Sign Up",
+    "sign_up_text": "Sign up now for free and start meditating and explore medic",
+    "full_name": "Full Name",
+    "hint_name": "Enter your full name",
+    "email": "Email",
+    "hint_email": "Enter your email",
+    "password": "Password",
+    "hint_pass": "Enter your password",
+    "sign_up_btn": "Sign Up",
+    "already_have_acc": "Already have an account?"
+  },
+  "themeChange_screen": {
+    "title": "Scenes",
+    "scn_sound": "Scenes Sound",
+    "moonlit": "Moonlit",
+    "hills": "Hills",
+    "night": "Night",
+    "rainy": "Rainy",
+    "cloudy": "Cloudy",
+    "snowy": "Snowy",
+    "save": "Save"
+  },
+  "menu_screen": {
+    "good": "Good",
+    "morning": "Morning",
+    "afternoon": "Afternoon",
+    "evening": "Evening",
+    "night": "Night",
+    "error_text": "Failed to load image",
+    "no_data": "No Data",
+    "view_all": "View All",
+    "reset": "Reset",
+    "see_all": "See All",
+    "recommand": "Most Recommended Collections",
+    "mindful": "Mindful Walking",
+    "relieve": "Relieve feelings of anxiety \n and tension",
+    "daily_meditam": "Daily Meditam",
+    "tamara_lev": "Tamara Levitt"
+  },
+  "profile_screen": {
+    "send_mail": "Send Mail",
+    "change_lang": "Change Language{} ",
+    "select_language": "Select Language",
+    "send_code": "Code Sent",
+    "invite_friend": "Invite a Friend",
+    "privacy_policy": "Privacy Policy",
+    "contact_us": "Contact Us",
+    "change_pass": "Change Password",
+    "delete_acc": "Delete Account",
+    "log_out": "Logout"
+  }
+}

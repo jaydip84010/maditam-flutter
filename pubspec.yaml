@@ -1,0 +1,83 @@
+name: medyo
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.1.1+13
+
+environment:
+  sdk: '>=3.1.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_screenutil: ^5.6.0
+  freezed_annotation: ^2.2.0
+  dio: ^4.0.6
+  pretty_dio_logger: ^1.2.0-beta-1
+  hive_flutter: ^1.1.0
+  page_transition: ^2.0.9
+  flutter_easyloading: ^3.0.5
+  flutter_riverpod: ^2.1.1
+  flutter_svg: ^1.1.6
+  flutter_form_builder: ^9.1.1
+  form_builder_validators: ^9.1.0
+  sliding_up_panel: ^2.0.0+1
+  audio_service: ^0.18.8
+  just_audio: ^0.9.30
+  cached_network_image: ^3.2.1
+  image_picker: ^0.8.6
+  flutter_stripe: ^7.0.0
+  pin_code_fields: ^7.4.0
+  flutter_launch: ^0.3.0
+  url_launcher: ^6.1.7
+  flutter_html: ^3.0.0-alpha.5
+  text_scroll: ^0.1.2
+  google_mobile_ads: ^2.3.0
+  intl: ^0.18.1
+  lottie: ^2.2.0
+  audioplayers: ^3.0.1
+  share_plus: ^6.3.0
+  firebase_core: ^2.9.0
+  firebase_messaging: ^14.4.0
+  flutter_local_notifications: ^8.2.0
+  easy_localization: ^3.0.1
+  flutter_cache_manager: ^3.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  freezed: ^2.2.1
+  flutter_launcher_icons: ^0.11.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/svgs/
+    - assets/sounds/
+    - assets/translations/
+    - assets/sounds/birds-in-the-morning-24147.mp3
+
+  fonts:
+    - family: Open Sans
+      fonts:
+        - asset: assets/fonts/OpenSans-Light.ttf
+          weight: 300
+        - asset: assets/fonts/OpenSans-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/OpenSans-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/OpenSans-Italic.ttf
+          style: italic
+        - asset: assets/fonts/OpenSans-Bold.ttf
+          weight: 700
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/app_icon.png"

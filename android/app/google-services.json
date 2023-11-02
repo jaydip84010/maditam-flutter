@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9919956392",
+    "project_id": "maditam-bed79",
+    "storage_bucket": "maditam-bed79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9919956392:android:21deca1ef6ed9f27a4099d",
+        "android_client_info": {
+          "package_name": "com.maditam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9919956392-obmgtbqbr3qh7bvu4fk59bf7uthua51r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJQpR4L0LQ7A5PWWDXUIYl_aSqJgN70Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9919956392-obmgtbqbr3qh7bvu4fk59bf7uthua51r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

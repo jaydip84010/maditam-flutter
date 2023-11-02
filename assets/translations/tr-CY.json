@@ -1,0 +1,68 @@
+{
+  "onboarding_screen": {
+    "welcome": "Hoş geldin",
+    "text": "Meditasyon nihai mobil cihazdır; her yerde, her zaman, göze batmadan kullanabilirsiniz.",
+    "btn_text": "Başlamak"
+  },
+  "login_screen": {
+    "sign_in": "Sign In",
+    "sign_in_text": "Sing in now to access your meditation and save music",
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "forgot_pass": "Forgot Password?",
+    "dont_have_acc": "Don't have an account?"
+  },
+  "signup_screen": {
+    "sign_up": "Sign Up",
+    "sign_up_text": "Sign up now for free and start meditating and explore medic",
+    "full_name": "Full Name",
+    "hint_name": "Enter your full name",
+    "email": "Email",
+    "hint_email": "Enter your email",
+    "password": "Password",
+    "hint_pass": "Enter your password",
+    "sign_up_btn": "Sign Up",
+    "already_have_acc": "Already have an account?"
+  },
+  "themeChange_screen": {
+    "title": "sahneler",
+    "scn_sound": "Sahneler Ses",
+    "moonlit": "mehtaplı",
+    "hills": "tepeler",
+    "night": "Gece",
+    "rainy": "Yağmurlu",
+    "cloudy": "Bulutlu",
+    "snowy": "Kar yağışlı",
+    "save": "Kaydetmek"
+  },
+  "menu_screen": {
+    "good": "İyi",
+    "morning": "Sabah",
+    "afternoon": "Öğleden sonra",
+    "evening": "Akşam",
+    "night": "Gece",
+    "error_text": "resim yüklenemedi",
+    "no_data": "Veri yok",
+    "view_all": "Hepsini gör",
+    "reset": "Sıfırla",
+    "see_all": "Hepsini gör",
+    "recommand": "En Çok Tavsiye Edilen Koleksiyonlar",
+    "mindful": "Dikkatli Yürüyüş",
+    "relieve": "Endişe ve gerginlik duygularını rahatlatın",
+    "daily_meditam": "Günlük Meditasyon",
+    "tamara_lev": "Tamara Levitt"
+  },
+  "profile_screen": {
+    "send_mail": "Posta göndermek",
+    "change_lang": "Dili değiştir{} ",
+    "select_language": "Dil Seçin",
+    "send_code": "Kod gönderildi",
+    "invite_friend": "Bir arkadaş davet et",
+    "privacy_policy": "Gizlilik Politikası",
+    "contact_us": "Bize Ulaşın",
+    "change_pass": "Şifre değiştir",
+    "delete_acc": "Hesabı sil",
+    "log_out": "Çıkış Yap"
+  }
+}
